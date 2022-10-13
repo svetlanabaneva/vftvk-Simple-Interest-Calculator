@@ -1,4 +1,31 @@
-body {background-color:tan;}
-h1{color:green;}
+body {background-color:black;}
+h1{color:grey;font-family:verdana}
+.maindiv {
+    background-color:white;
+    width:500px;
+    padding:20px;
+   border-radius:25px;
+  margin:30px auto;
+  color:black;
+}
+.yellow { background-color: yellow }
+.calc{
+  padding-left:70px;
+}
+#principal{
+  margin:7px;
+}
+#rate{
+  margin:7px;
+}
+#years{
+  margin:7px;
+}
+button{
+  margin-top:7px;
+  text-align:right;
+}
 
-
+footer{
+  margin-top:10px;
+}
